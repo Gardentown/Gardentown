@@ -1,22 +1,21 @@
-# Sunflower Farmer
+# Garden Town
 
 A blockchain based game where players can play to earn Sunflower Farmer Tokens.
 
 
-Originally https://sunflower-farmers.com, this open source game brought in over 50K DAU and 350K Blockchain accounts.
+Originally , this open source game brought in over 50K DAU and 350K Blockchain accounts.
 
 The game was not perfect, and the team learned a lot of lessons. It was taken down on January 7th.
 
 The new and improved version is in development and will be live early 2022.
 
-You can stay up to date with development, beta registration and news at https://sunflower-land.com
+You can stay up to date with development, beta registration and news at "a definir"
 
 This version of the game is purely experimental and is not recommended to play. There are inherent flaws in the design and it is open for botting and malicious actors to find vulnerabilities. Resources and items crafted are used for in-game mechanics only.
 
 # How does it work?
 
-For more details, please see the guide - https://docs.sunflower-farmers.com/
-
+For more details, please see the guide - a definir
 # Code Structure
 
 Smart Contracts can be found in `src/contracts`.
